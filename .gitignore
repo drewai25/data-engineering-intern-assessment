@@ -1,0 +1,20 @@
+# Python / local env
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+*.pyc
+__pycache__/
+*.pyd
+
+# OS / editor
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Data outputs (keep these if assignment requires; otherwise ignore)
+# raw/*.csv
+# raw/*.parquet
+# processed/*.parquet
+# analytics/*.parquet
+# reports/*.md
