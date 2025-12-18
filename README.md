@@ -1,7 +1,6 @@
 Data Engineering Intern Assessment
 Overview
 
-![World Bank](https://upload.wikimedia.org/wikipedia/commons/5/56/World_Bank_logo.svg)
 
 
 This project implements a small, reproducible ETL (Extract, Transform, Load) pipeline using a public dataset from the World Bank.
