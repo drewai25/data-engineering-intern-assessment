@@ -1,8 +1,7 @@
 Data Engineering Intern Assessment
 Overview
-## Pipeline Overview
+![Data Pipeline Overview](https://raw.githubusercontent.com/drewai25/data-engineering-intern-assessment/main/docs/pipeline_overview.png)
 
-![Data Pipeline Overview](docs/pipeline_overview.png)
 
 This project implements a small, reproducible ETL (Extract, Transform, Load) pipeline using a public dataset from the World Bank.
 The goal is to demonstrate core data engineering skills: ingestion, cleaning, analytics-ready outputs, documentation, and containerized execution.
